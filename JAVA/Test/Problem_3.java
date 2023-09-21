@@ -9,7 +9,7 @@ public class Problem_3 {
    public static void main(String[] args) {
 		try (Scanner s = new Scanner(System.in)) {
             int n = s.nextInt();
-            int ans = 1;
+            // int ans = 1;
             int k = 1;
             while (k <= n) {
             	int x = s.nextInt();
